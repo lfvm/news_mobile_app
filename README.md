@@ -8,7 +8,7 @@ Flutter mobile application that shows the user recent news around the world.
 ## Screenshots
 
 
-<img src="https://user-images.githubusercontent.com/57450093/158083991-ac6af7fe-040f-46b2-8078-2d245092a22f.png"></img>
+<img src="https://user-images.githubusercontent.com/57450093/158083991-ac6af7fe-040f-46b2-8078-2d245092a22f.png" widht='100' height="100"></img>
 
 ## Features
 
