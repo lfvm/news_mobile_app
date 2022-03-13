@@ -1,16 +1,25 @@
-# news_app
 
-A new Flutter project.
+# Recent News Mobile App
 
-## Getting Started
+Flutter mobile application that shows the user recent news around the world.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Screenshots
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Simulator Screen Shot - iPhone 13 - 2022-03-13 at 17 23 12](https://user-images.githubusercontent.com/57450093/158083991-ac6af7fe-040f-46b2-8078-2d245092a22f.png)
+
+
+## Features
+
+- Get live news around the world
+- Filter news by category
+- Cross platform
+
+
+## Tech Stack
+
+**Client:** Flutter
+**API:** News api : https://newsapi.org
+
+
